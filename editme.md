@@ -1,3 +1,3 @@
 _Write a question for your teacher below._
 
-Q: 
+Q: How long did it take you to get comfortable coding?
